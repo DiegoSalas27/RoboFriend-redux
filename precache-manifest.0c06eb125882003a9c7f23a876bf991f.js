@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/RoboFriend-redux/static/js/runtime~main.5182945b.js"
   },
   {
-    "revision": "bfcef1fba1d3d78cb5ee",
-    "url": "/RoboFriend-redux/static/js/main.bfcef1fb.chunk.js"
+    "revision": "4187255598a0c8c3be52",
+    "url": "/RoboFriend-redux/static/js/main.41872555.chunk.js"
   },
   {
     "revision": "4be0038822ac38e387de",
     "url": "/RoboFriend-redux/static/js/2.4be00388.chunk.js"
   },
   {
-    "revision": "bfcef1fba1d3d78cb5ee",
+    "revision": "4187255598a0c8c3be52",
     "url": "/RoboFriend-redux/static/css/main.1a2a2baa.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/RoboFriend-redux/static/css/2.2353cac4.chunk.css"
   },
   {
-    "revision": "bd0b62c96c46bb92fe8d1c8c872ef5db",
+    "revision": "3a0006a46766847f038d4950727566cf",
     "url": "/RoboFriend-redux/index.html"
   }
 ];
