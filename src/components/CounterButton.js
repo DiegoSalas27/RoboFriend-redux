@@ -2,8 +2,8 @@ import React, { PureComponent } from 'react';
 
 //PureComponent is another way to avoid the class component to rerender
 class CounterButton extends PureComponent {
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.state = {
             count: 0
         }
@@ -27,7 +27,7 @@ class CounterButton extends PureComponent {
     render() {
         console.log('CounterButton')
         return (
-            <button color={this.props.color} onClick={this.updateCount}>
+            <button id='counter' color={this.props.color} onClick={this.updateCount}>
                 Count: {this.state.count}
             </button>
         );
